@@ -1,4 +1,4 @@
-### Short script to read all sequences and keep only sequences with N's
+"""Short script to read all sequences and keep only sequences with N's"""
 
 import os
 from Bio import SeqIO
