@@ -1,7 +1,9 @@
+### Short script to read all sequences and keep only sequences with N's
+
 import os
 from Bio import SeqIO
 
-Dir = "gamma"
+Dir = "name"
 
 arr = os.listdir(Dir)
 
